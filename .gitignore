@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+eureka-client/build/
+eureka-client/out/
+eureka-server/build/
+eureka-server/out/
